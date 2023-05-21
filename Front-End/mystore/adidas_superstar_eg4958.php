@@ -24,7 +24,7 @@
             <?php
             $servername = "localhost";
             $username = "root";
-            $password = "Ctmdsbggpn900!!";
+            $password = "";
             $database = "sneakers";
 
             //create connection
